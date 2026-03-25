@@ -29,7 +29,7 @@
 | №  | Название работы | Тема | Статус |
 |----|-----------------|------|--------|
 | 01 | PowerShell. Основные понятия.Типы данных.Работа и настройка оболочки PowerShell | ПР08 Основы PowerShell | ✅ |
-| 02 | Объединение команд.Поток управления | ПР09 Поток управления | ⏳ |
+| 02 | Объединение команд.Поток управления | ПР09 Поток управления | ✅ |
 | 03 | Функции в PowerShell. | ПР10 Создание функций в PowerShell | ⏳ |
 | 04 | Модули | ПР11 Использование модулей | ⏳ |
 | 05 | Парсинг структурированных данных | ПР12 Парсинг CSV-файлов | ⏳ |
@@ -116,7 +116,7 @@ The repository contains practical works in two areas:
 | №  | Work Title | Topic | Status |
 |----|------------|-------|--------|
 | 01 | PowerShell. Basic Concepts. Data Types. Working with and Configuring PowerShell Shell | PR08 PowerShell Basics | ✅ |
-| 02 | Command Combining. Flow Control | PR09 Flow Control | ⏳ |
+| 02 | Command Combining. Flow Control | PR09 Flow Control | ✅ |
 | 03 | Functions in PowerShell | PR10 Creating Functions in PowerShell | ⏳ |
 | 04 | Modules | PR11 Using Modules | ⏳ |
 | 05 | Structured Data Parsing | PR12 Parsing CSV Files | ⏳ |
