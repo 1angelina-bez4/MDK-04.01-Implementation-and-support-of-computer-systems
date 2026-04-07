@@ -30,9 +30,9 @@
 |----|-----------------|------|--------|
 | 01 | PowerShell. Основные понятия.Типы данных.Работа и настройка оболочки PowerShell | ПР08 Основы PowerShell | ✅ |
 | 02 | Объединение команд.Поток управления | ПР09 Поток управления | ✅ |
-| 03 | Функции в PowerShell. | ПР10 Создание функций в PowerShell | ⏳ |
-| 04 | Модули | ПР11 Использование модулей | ⏳ |
-| 05 | Парсинг структурированных данных | ПР12 Парсинг CSV-файлов | ⏳ |
+| 03 | Функции в PowerShell. | ПР10 Создание функций в PowerShell | ✅ |
+| 04 | Модули | ПР11 Использование модулей | ✅ |
+| 05 | Парсинг структурированных данных | ПР12 Парсинг CSV-файлов | ✅ |
 | 06 | Удаленный запуск сценариев | ПР13 Использование PowerShell для удаленного запуска сценариев | ⏳ |
 | 07 | Обработка ошибок | ПР14 Использование PowerShell для управления процессами | ⏳ |
 
@@ -48,11 +48,11 @@
 
 ## 📊 Прогресс выполнения работ
 
-### PowerShell (1/7 выполнено)
-- [ ] Практическая работа 1
-- [ ] Практическая работа 2
-- [ ] Практическая работа 3
-- [ ] Практическая работа 4
+### PowerShell (4/7 выполнено)
+- [x] Практическая работа 1
+- [x] Практическая работа 2
+- [x] Практическая работа 3
+- [x] Практическая работа 4
 - [ ] Практическая работа 5
 - [ ] Практическая работа 6
 - [ ] Практическая работа 7
@@ -117,9 +117,9 @@ The repository contains practical works in two areas:
 |----|------------|-------|--------|
 | 01 | PowerShell. Basic Concepts. Data Types. Working with and Configuring PowerShell Shell | PR08 PowerShell Basics | ✅ |
 | 02 | Command Combining. Flow Control | PR09 Flow Control | ✅ |
-| 03 | Functions in PowerShell | PR10 Creating Functions in PowerShell | ⏳ |
-| 04 | Modules | PR11 Using Modules | ⏳ |
-| 05 | Structured Data Parsing | PR12 Parsing CSV Files | ⏳ |
+| 03 | Functions in PowerShell | PR10 Creating Functions in PowerShell | ✅ |
+| 04 | Modules | PR11 Using Modules | ✅ |
+| 05 | Structured Data Parsing | PR12 Parsing CSV Files | ✅ |
 | 06 | Remote Script Execution | PR13 Using PowerShell for Remote Script Execution | ⏳ |
 | 07 | Error Handling | PR14 Using PowerShell for Process Management | ⏳ |
 
@@ -134,11 +134,11 @@ The repository contains practical works in two areas:
 
 ## 📊 Work Completion Progress
 
-### PowerShell (1/7 completed)
+### PowerShell (4/7 completed)
 - [x] Practical Work 1
-- [ ] Practical Work 2
-- [ ] Practical Work 3
-- [ ] Practical Work 4
+- [x] Practical Work 2
+- [x] Practical Work 3
+- [x] Practical Work 4
 - [ ] Practical Work 5
 - [ ] Practical Work 6
 - [ ] Practical Work 7
